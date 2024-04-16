@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "arithmatic_operator",
+            "request": "launch",
+            "mainClass": "arithmatic_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "assignment_operator",
+            "request": "launch",
+            "mainClass": "assignment_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_operator",
+            "request": "launch",
+            "mainClass": "bitwise_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "boolean_operator",
+            "request": "launch",
+            "mainClass": "boolean_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "comparision_operator",
+            "request": "launch",
+            "mainClass": "comparision_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "logical_operator",
+            "request": "launch",
+            "mainClass": "logical_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "string_operators",
+            "request": "launch",
+            "mainClass": "string_operators",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "ternary_operator",
+            "request": "launch",
+            "mainClass": "ternary_operator",
+            "projectName": "Operators_14b0f807"
+        },
+        {
+            "type": "java",
+            "name": "unary_operator",
+            "request": "launch",
+            "mainClass": "unary_operator",
+            "projectName": "Operators_14b0f807"
+        }
+    ]
+}
